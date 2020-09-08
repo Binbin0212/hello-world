@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+HI: 
+
+Did you finish your dissertation? When did you find your key?
+
+
